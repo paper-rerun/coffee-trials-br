@@ -1,0 +1,26 @@
+{
+  "title": "Coffee trials in Brazil: 2,108 results from 20 publications",
+  "upload_type": "dataset",
+  "description": "2,108 trial results from 27 trials on arabica and canephora coffee (conilon and robusta) in Brazil, transcribed from the tables and text of 20 open-access publications (1983-2024) found in Embrapa's Alice repository: coffee leaf rust (chemical control, Bacillus subtilis, nitrogen and resistance components), the coffee berry borer (Hypothenemus hampei), the coffee leaf miner (Leucoptera coffeella), the southern red mite and predatory mites, Meloidogyne exigua, weed control, nitrogen and zinc fertilization, progenies in dense planting, shade and legume alleys, water stress at flowering, programmed pruning, irrigation of robusta clones, harvest by ripeness, drying and cup quality, in Rondônia, Acre, Minas Gerais, Espírito Santo, the Distrito Federal and Rio de Janeiro, with trial context (place, harvest years, species, cultivar, design), measured variable and value, assessment time, and the page and table of origin. Each document was transcribed twice, independently, by AI agents, and every disagreement was settled against the PDF; a human reviewed the result before publication. Part of the Paper Rerun project (Open Tables).",
+  "creators": [
+    {
+      "name": "Tessaro, Filipe"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "Coffea arabica",
+    "Coffea canephora",
+    "coffee",
+    "café",
+    "coffee leaf rust",
+    "Hemileia vastatrix",
+    "Hypothenemus hampei",
+    "Leucoptera coffeella",
+    "Brazil",
+    "Embrapa",
+    "open data",
+    "AI agents"
+  ]
+}
