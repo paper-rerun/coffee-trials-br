@@ -2,6 +2,8 @@
 
 English version: [README.md](README.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23928825.svg)](https://doi.org/10.5281/zenodo.23928825)
+
 2.108 resultados de 27 ensaios com café arábica e canéfora (conilon e robusta) no Brasil, tirados das tabelas e do texto de 20 publicações de acesso aberto impressas entre 1983 e 2024: ferrugem (controle químico, produtos à base de *Bacillus subtilis*, fontes de nitrogênio e componentes da resistência), broca-do-café, bicho-mineiro, ácaro-vermelho e ácaros predadores, o nematoide *Meloidogyne exigua*, controle de mato no cafezal em formação, adubação com nitrogênio e zinco, progênies no plantio adensado e convencional, sombreamento e aleias de leguminosas, estresse hídrico na florada, poda programada, irrigação de clones de robusta, colheita por grau de maturação, secagem e qualidade de bebida. Cada linha é um número exatamente como impresso, com a página e a tabela de onde saiu, e aponta para o ensaio a que pertence.
 
 O café é uma das principais culturas do Brasil, e boa parte dos resultados de ensaio sobre pragas, doenças e manejo está em boletins da Embrapa, artigos de periódico e anais do Simpósio de Pesquisa dos Cafés do Brasil. Este dataset torna 20 deles pesquisáveis e comparáveis, de Rondônia e do Acre a Minas Gerais, Espírito Santo, Distrito Federal e Rio de Janeiro.

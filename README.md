@@ -2,6 +2,8 @@
 
 Versão em português: [README.pt-BR.md](README.pt-BR.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23928825.svg)](https://doi.org/10.5281/zenodo.23928825)
+
 2,108 trial results from 27 trials on arabica and canephora coffee (conilon and robusta) in Brazil, taken from the tables and text of 20 open-access publications printed between 1983 and 2024: coffee leaf rust (chemical control, *Bacillus subtilis* products, nitrogen sources and resistance components), the coffee berry borer, the coffee leaf miner, the southern red mite and its predatory mites, the root-knot nematode *Meloidogyne exigua*, weed control in a young plantation, nitrogen and zinc fertilization, progenies in dense and conventional planting, shade and legume tree alleys, water stress at flowering, programmed pruning, irrigation of robusta clones, harvest by ripeness stage, drying and cup quality. Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to.
 
 Coffee is one of Brazil's main crops, and much of the trial evidence on its pests, diseases and management sits in Embrapa bulletins, journal articles and the proceedings of the Simpósio de Pesquisa dos Cafés do Brasil. This dataset makes 20 of them searchable and comparable, from Rondônia and Acre to Minas Gerais, Espírito Santo, the Distrito Federal and Rio de Janeiro.
